@@ -121,7 +121,7 @@ Feel free to fork, modify, or contribute.
 
 ## 🙋 Support & Contributions
 
-- Found a bug? [Open an issue](https://github.com/your-username/PromptCTRL/issues)
+- Found a bug? [Open an issue](https://github.com/arav1nd4n/PromptCTRL/issues)
 - Want to contribute? Fork the repo and submit a PR
 
 ---
@@ -129,6 +129,6 @@ Feel free to fork, modify, or contribute.
 ## 📬 Author
 
 **Aravindan S.**  
-- [LinkedIn](https://linkedin.com/in/aravindan-s)  
-- [Email](mailto:aravindans.dev@gmail.com)  
-- [Casual Contact](https://instagram.com/aravindan.codes)
+- [LinkedIn](https://linkedin.com/in/arav1nd4n)  
+- [Email](mailto:aravindans.s.offcl@gmail.com)  
+- [Casual Contact](https://instagram.com/arav1nd4n)
