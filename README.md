@@ -20,7 +20,7 @@ PromptCTRL is a terminal-native AI assistant designed to empower developers dire
 
 ```bash
 cd ~/Documents
-git clone https://github.com/your-username/PromptCTRL.git
+git clone https://github.com/arav1nd4n/PromptCTRL.git
 ```
 
 Or manually download the [`promptctrl.plugin.sh`](promptctrl.plugin.sh) file and place it anywhere you like.
