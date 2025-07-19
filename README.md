@@ -9,7 +9,7 @@
 - ⚡ Single-file Bash plugin (no dependencies)
 - 🔌 Works with Bash, Zsh, and Oh-My-Bash
 
-## 🔧 Installation
+## 🔧 Installationa
 
 ### 1. Get API Key
 1. Create free account at [OpenRouter.ai](https://openrouter.ai)
